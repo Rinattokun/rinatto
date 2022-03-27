@@ -1,0 +1,9 @@
+body { background-image: url(fon.jpg);
+       font-family: Bradley Hand, cursive;
+       color: #ffffff;
+       font-size: 180%;}	
+img { pading: 0px 0px;
+      border-botton: 50px #000000;
+     }			
+.ava { border-radius: 100%;
+       box-shadow: 0px 0px 45px #ee6aff}
